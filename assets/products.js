@@ -731,16 +731,4 @@ window.PRODUCTS = [
     "image": "assets/images/dfhdfhgfg.png",
     "featured": false
   },
-  {
-    "id": 62,
-    "slug": "spuma-autobronzanta-oceaura-self-tanner-mousse-100ml",
-    "name": "Spumă Autobronzantă 100ml",
-    "description": "Rapidă, sigură și eficientă pentru obținerea unui bronz impecabil",
-    "price": "14.9 Lei",
-    "stock": "350",
-    "video": "",
-    "category": "Beauty",
-    "image": "assets/images/spuma-autobronzanta-oceaura-self-tanner-mousse-100ml.webp",
-    "featured": false
-  }
 ];
