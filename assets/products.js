@@ -728,7 +728,7 @@ window.PRODUCTS = [
     "stock": "0",
     "video": "",
     "category": "Casă și grădină",
-    "image": "assets/images/patura-impermeabila.webp",
+    "image": "assets/images/dfhdfhgfg.png",
     "featured": false
   },
   {
